@@ -18,7 +18,7 @@ This project is a responsive sign-up page designed using HTML and CSS. The page 
 
 ## Demo
 
-You can see a live demo of the sign-up page [here](https://your-demo-link.com).
+You can see a live demo of the sign-up page [here](https://simple-sign-up-page-theta.vercel.app/).
 
 ## Installation
 
