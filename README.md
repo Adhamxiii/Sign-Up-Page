@@ -6,11 +6,13 @@ A simple sign-up page design with HTML and CSS.
 
 ## Table of Contents
 
-- [Description](#description)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
+- [Sign-Up Page](#sign-up-page)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Demo](#demo)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
 
 ## Description
 
@@ -34,6 +36,6 @@ You can see a live demo of the sign-up page [here](https://simple-sign-up-page-t
 ## Credits
 
 - Design by Nanda Fadillah.
-- Development by [Adham Nasser](https://github.com/Adham-XIII)
+- Development by [Adham Nasser](https://github.com/Adhamxiii)
 - Icon fonts provided by [FontAwesome](https://fontawesome.com/).
 
